@@ -1,0 +1,36 @@
+body {
+    background-image:url('background-image.png');
+}
+
+.ProfileImage {
+  vertical-align: left;
+  width: 250px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.tableInformation , th, td{
+  border: 1px solid;
+  width: 100%;
+  text-align: center;
+}
+
+table , th, td{
+    border: 1px solid;
+    width: 100%;
+    text-align: left;
+    
+  }
+
+.ContactMe{
+    background-color: red;
+    color: aliceblue;
+    margin-left: 50%;
+}
+
+form{
+    top: 50%;
+    left: 50;
+    margin-top: 200px;
+    margin-left: 50%;
+}
